@@ -1,0 +1,5 @@
+C:\Users\1024\Documents\Visual Studio 2012\Projects\ShazamO\ShazamO.ParseToJSON\bin\Release\ShazamO.ParseToJSON.dll
+C:\Users\1024\Documents\Visual Studio 2012\Projects\ShazamO\ShazamO.ParseToJSON\bin\Release\ShazamO.ParseToJSON.pdb
+C:\Users\1024\Documents\Visual Studio 2012\Projects\ShazamO\ShazamO.ParseToJSON\obj\Release\ShazamO.ParseToJSON.dll
+C:\Users\1024\Documents\Visual Studio 2012\Projects\ShazamO\ShazamO.ParseToJSON\obj\Release\ShazamO.ParseToJSON.pdb
+C:\Users\1024\Documents\Visual Studio 2012\Projects\ShazamO\ShazamO.ParseToJSON\obj\Release\ShazamO.ParseToJSON.csprojResolveAssemblyReference.cache
